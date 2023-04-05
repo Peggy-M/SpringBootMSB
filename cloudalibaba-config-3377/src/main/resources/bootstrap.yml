@@ -1,0 +1,16 @@
+# nacos ??
+server:
+  port: 3377
+
+spring:
+  application:
+    name: nacos-config-client
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.188.101:8848 #Nacos ??????
+      config:
+        server-addr: 192.168.188.101:8848 #Nacos ????????
+        file-extension: yaml #?? yaml ????
+        group: DEV_GROUP #????
