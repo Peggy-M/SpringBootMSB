@@ -8,17 +8,13 @@
         <version>0.0.1-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.mashibing</groupId>
+    <groupId>com.peggy</groupId>
     <artifactId>cloudalibaba-nacos-9001</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>cloudanlibaba-nacos-9001</name>
     <description>cloudanlibaba-nacos-9001</description>
 
     <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>

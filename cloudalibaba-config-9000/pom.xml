@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.peggy</groupId>
-    <artifactId>cloudalibaba-config-3377</artifactId>
+    <artifactId>cloudalibaba-config-9000</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cloudalibaba-config-3377</name>
-    <description>cloudalibaba-config-3377</description>
+    <name>cloudalibaba-config-9000</name>
+    <description>cloudalibaba-config-9000</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
