@@ -1,8 +1,5 @@
 server:
   port: 9001
-  # 指定请求的头路径
-  servlet:
-    context-path: /nacos-provider
 spring:
   application:
     name: nacos-provider
