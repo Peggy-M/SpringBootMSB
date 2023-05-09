@@ -93,6 +93,8 @@
         <module>Sentienl-Context</module>
         <module>CloudalibabaOpenFeignConsumer8888Application</module>
         <module>cloudalibaba-getway-9999</module>
+        <module>cloudalibaba-state-order-8801</module>
+        <module>cloudalibaba-state-stock-8802</module>
     </modules>
 
 </project>
